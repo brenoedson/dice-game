@@ -25,4 +25,5 @@ function refresh(){
 
 }
 refreshText.addEventListener('click', refresh);
+refresh();
 
